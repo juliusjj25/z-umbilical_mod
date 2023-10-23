@@ -17,6 +17,6 @@ BOM:
 
 It is possible to route wiring through the original z-chain backer nut hole on the right A/B assembly for clean wiring.
 
-The threads for the PG7s aren't perfect but will work with a wrench.
+Parts are designed to be printed without supports.
 
 ![Gantry Image](images/gantry_image.jpg?raw=true "Gantry Image")

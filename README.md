@@ -3,20 +3,23 @@ Voron 2.4 z-umbilical mod
 
 This mod eliminates the z drag chain and replaces it with a canbus umbilical. This can be used with the FYSTEC PITB or GBB15 mod: https://github.com/skuep/GBB15/
 
-Note, the gantry mount is designed around the GBB15 and will not fit the PITB board
+There are 3 versions of the gantry mount:
+GBB15: Designed to be used with this can board https://github.com/skuep/GBB15/
+PITB: Designed for the Fystec/DFH PITB can board [Untested]
+No Board: Designed for no gantry can board and just wiring to steppers, endstops & toolhead umbilical
 
 BOM:
-| ITEM                               | Quantity |
-| ---------------------------------- | -------- |
-| Z-Umbilical_Mount [Printed]        | 1        |
-| Gantry-Umbilical_Mount [Printed]   | 1        |
-| PG7 Cable Gland                    | 2        |
-| M3x8 SHCS                          | 3        |
-| M3 Roll In Nut                     | 3        |
-| M5x12 BHCS (Replaces gantry screw) | 1        |
+| ITEM | Quantity |
+| -- | -------- |
+| Z-Umbilical_Mount [Printed] | 1 |
+| Gantry-Umbilical_Mount [Printed] | 1 |
+| PG7 Cable Gland | 2 |
+| M3x8 SHCS | 3 for GBB15/PITB versions / 4 for no board version |
+| M3 Roll In Nut | 3 for GBB15/PITB versions / 4 for no board version      |
+| M5x12 BHCS (Replaces gantry screw on GBB15 & PITB versions only) | 1        |
 
-It is possible to route wiring through the original z-chain backer nut hole on the right A/B assembly for clean wiring.
+It is possible to route wiring through the original z-chain backer nut hole on the right A/B assembly for clean wiring (Only fits about 8 wires for can & right stepper).
 
-Parts are designed to be printed without supports.
+Parts are designed to be printed without supports in the orientation provided.
 
 ![Gantry Image](images/gantry_image.jpg?raw=true "Gantry Image")

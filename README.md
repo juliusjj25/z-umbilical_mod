@@ -16,3 +16,5 @@ BOM:
 | M5x12 BHCS (Replaces gantry screw | 1        |
 
 It is possible to route wiring through the original z-chain backer nut hole on the right A/B assembly for clean wiring.
+
+![Gantry Image](images/gantry image.jpg?raw=true "Gantry Image")

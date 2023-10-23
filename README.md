@@ -1,7 +1,7 @@
 # z-umbilical_mod
 ## Description:
 
-This mod eliminates the z drag chain and replaces it with a canbus umbilical. This can be used with the FYSTEC PITB or GBB15 mod: https://github.com/skuep/GBB15/
+This mod eliminates the z drag chain and replaces it with a canbus umbilical for Voron V2.4 and Trident models. This can be used with the FYSTEC PITB or GBB15 mod: https://github.com/skuep/GBB15/
 
 ## There are 3 versions of the gantry mount:
 

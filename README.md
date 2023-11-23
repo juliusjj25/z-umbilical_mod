@@ -29,3 +29,7 @@ It is possible to route wiring through the original z-chain backer nut hole on t
 Parts are designed to be printed without supports in the orientation provided.
 
 ![Gantry Image](images/gantry_image.jpg?raw=true "Gantry Image")
+
+Showing the GBB15 mounted under the gantry mount:
+![image](https://github.com/juliusjj25/z-umbilical_mod/assets/118471600/734c43e9-1fa5-4b8e-965f-177122ac3018)
+

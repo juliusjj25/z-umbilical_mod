@@ -1,7 +1,7 @@
 # z-umbilical_mod
 ## Description:
 
-This mod eliminates the z drag chain and replaces it with an umbilical for Voron V2.4 and Trident models.
+This mod eliminates the z drag chain and replaces it with an umbilical for Voron V2.4 models.
 
 ## There are 3 versions of the gantry mount:
 
